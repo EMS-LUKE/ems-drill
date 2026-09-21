@@ -1,0 +1,4 @@
+# ems-luke.github.io
+# 只禁止收錄「院前救護情境演練系統」(/ems-drill/)，其他網站維持可被搜尋
+User-agent: *
+Disallow: /ems-drill/
